@@ -1,0 +1,1 @@
+Right JOIN is the reverse of LEFT JOIN so you only need to master one of them and switch the places of tables each time

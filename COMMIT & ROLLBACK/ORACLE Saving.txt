@@ -1,0 +1,2 @@
+Oracle saving is done with COMMIT;
+ROLLBACK; returns us the to last data checkpoint (the last commit statement)
